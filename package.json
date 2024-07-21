@@ -1,0 +1,11 @@
+{
+    "name": "playwright-test-framework",
+    "version": "1.0.0",
+    "description": "A test framework using Playwright and Page Object Pattern",
+    "scripts": {
+        "test": "npx playwright test"
+    },
+    "devDependencies": {
+        "@playwright/test": "^1.45.2"
+    }
+}
